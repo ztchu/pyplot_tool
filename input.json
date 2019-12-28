@@ -1,0 +1,12 @@
+{
+    "input_file":[
+        "5_G_test/no_loss_record_stats.txt",
+        "5_G_test/20_loss_record_stats.txt",
+        "5_G_test/40_loss_record_stats.txt"
+    ],
+    "label":[
+        "no_loss",
+        "20_percent_loss",
+        "40_percent_loss"
+    ]
+}
